@@ -1,4 +1,5 @@
 name: NoMelonLag
 main: me.lasillje.nomelonlag.NoMelonLag
 version: 1.0
-api-version: 1.15
+api-version: 1.13
+author: alphalawz
